@@ -1,3 +1,12 @@
+
+[image]
+
+
+
+
+
+
+
 # Docker-compose LEMP stack
  
 ## nginx - php - mysql - node
