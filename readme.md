@@ -1,5 +1,5 @@
 
-[image]:https://github.com/denOldTimer/sc-dc-lemp/blob/master/docker-lemp.jpg
+![image](https://github.com/denOldTimer/sc-dc-lemp/blob/master/docker-lemp.jpg)
 
 
 # Docker-compose LEMP stack
